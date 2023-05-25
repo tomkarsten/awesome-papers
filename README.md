@@ -4,7 +4,10 @@ A curated list of papers that may be of interest to Data Scientists and Machine 
 
 **MAY-2023**
 
-* [Eight Things to Know about Large Language Models (2023)](https://arxiv.org/abs/2304.00612)
+* [Trustworthy AI: From Principles to Practices (2023)](https://arxiv.org/abs/2110.01167)
+* [Machine Learning Testing: Survey, Landscapes and Horizons (2019)](https://arxiv.org/abs/1906.10742)
+* [BIML Interactive Machine Learning Risk Framework (2023)](https://berryvilleiml.com/interactive/)
+* [DQI: Measuring Data Quality in NLP (2020)](https://arxiv.org/abs/2005.00816)
 * [Cramming: Training a Language Model on a Single GPU in One Day (2023)](https://arxiv.org/abs/2212.14034)
 * [Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks (2023)](https://huggingface.co/papers/2305.14201)
 * [A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models (2023)](https://arxiv.org/abs/2305.12544)
