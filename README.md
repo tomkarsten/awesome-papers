@@ -4,6 +4,9 @@ A curated list of papers that may be of interest to Data Scientists and Machine 
 
 **MAY-2023**
 
+* [:new::fire: A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models (2023)](https://arxiv.org/abs/2305.12544)
+* [:new::fire: The False Promise of Imitating Proprietary LLMs (2023)](https://arxiv.org/abs/2305.15717)
+* [:new::fire: Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training (2023)](https://arxiv.org/abs/2305.14342)
 * [Trustworthy AI: From Principles to Practices (2023)](https://arxiv.org/abs/2110.01167)
 * [Machine Learning Testing: Survey, Landscapes and Horizons (2019)](https://arxiv.org/abs/1906.10742)
 * [BIML Interactive Machine Learning Risk Framework (2023)](https://berryvilleiml.com/interactive/)
