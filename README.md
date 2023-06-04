@@ -3,11 +3,12 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **JUNE-2023**
-
-* [:new::fire: Everyone wants to do the model work, not the data work: Data Cascades in High-Stakes AI (2021)](https://arxiv.org/abs/1811.12808)
-* [:new::fire: Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning (2019)](https://arxiv.org/abs/1811.12808)
-* [:new::fire: Evaluating the Quality of Machine Learning Explanations (2020)](https://www.mdpi.com/2079-9292/10/5/593/pdf)
-* [:new::fire: Evaluation of statistical and machine learning models for time series prediction (2019)](https://www.researchgate.net/profile/Antonio-Parmezan/publication/330742498_Evaluation_of_statistical_and_machine_learning_models_for_time_series_prediction_Identifying_the_state-of-the-art_and_the_best_conditions_for_the_use_of_each_model/links/5fbc07eda6fdcc6cc65e0d18/Evaluation-of-statistical-and-machine-learning-models-for-time-series-prediction-Identifying-the-state-of-the-art-and-the-best-conditions-for-the-use-of-each-model.pdf)
+* [:new::fire: The Impact of Positional Encoding on Length Generalization in Transformers (2023)](https://arxiv.org/abs/2305.19466)
+* [:new::fire: CodeTF: One-stop Transformer Library for State-of-the-art Code LLM (2023)](https://arxiv.org/abs/2306.00029)
+* [Everyone wants to do the model work, not the data work: Data Cascades in High-Stakes AI (2021)](https://arxiv.org/abs/1811.12808)
+* [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning (2019)](https://arxiv.org/abs/1811.12808)
+* [Evaluating the Quality of Machine Learning Explanations (2020)](https://www.mdpi.com/2079-9292/10/5/593/pdf)
+* [Evaluation of statistical and machine learning models for time series prediction (2019)](https://www.researchgate.net/profile/Antonio-Parmezan/publication/330742498_Evaluation_of_statistical_and_machine_learning_models_for_time_series_prediction_Identifying_the_state-of-the-art_and_the_best_conditions_for_the_use_of_each_model/links/5fbc07eda6fdcc6cc65e0d18/Evaluation-of-statistical-and-machine-learning-models-for-time-series-prediction-Identifying-the-state-of-the-art-and-the-best-conditions-for-the-use-of-each-model.pdf)
 
 **MAY-2023**
 
