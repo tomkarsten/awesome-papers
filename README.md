@@ -3,7 +3,8 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **JUNE-2023**
-* [:new::fire: A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks (2023)](https://arxiv.org/abs/2306.07303)
+* [:new::fire: An Overview of Catastrophic AI Risks (2023)](https://arxiv.org/abs/2306.12001v1)
+* [A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks (2023)](https://arxiv.org/abs/2306.07303)
 * [The Impact of Positional Encoding on Length Generalization in Transformers (2023)](https://arxiv.org/abs/2305.19466)
 * [CodeTF: One-stop Transformer Library for State-of-the-art Code LLM (2023)](https://arxiv.org/abs/2306.00029)
 * [Everyone wants to do the model work, not the data work: Data Cascades in High-Stakes AI (2021)](https://arxiv.org/abs/1811.12808)
