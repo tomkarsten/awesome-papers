@@ -3,7 +3,14 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **JUNE-2023**
-* [:new::fire: An Overview of Catastrophic AI Risks (2023)](https://arxiv.org/abs/2306.12001v1)
+* [:new::fire: How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (2023)](https://arxiv.org/abs/2306.04751)
+* [:new::fire: A Simple and Effective Pruning Approach for Large Language Models (2023)](https://arxiv.org/abs/2306.11695)
+* [:new::fire: Reasoning with Language Model Prompting: A Survey (2023)](https://arxiv.org/abs/2212.09597)
+* [:new::fire: All arXiv Publications Pre-Processed for NLP, Including Structured Full-Text and Citation Network (2023)](https://arxiv.org/abs/2303.14957)
+
+ 
+**JUNE-2023**
+* [An Overview of Catastrophic AI Risks (2023)](https://arxiv.org/abs/2306.12001v1)
 * [A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks (2023)](https://arxiv.org/abs/2306.07303)
 * [The Impact of Positional Encoding on Length Generalization in Transformers (2023)](https://arxiv.org/abs/2305.19466)
 * [CodeTF: One-stop Transformer Library for State-of-the-art Code LLM (2023)](https://arxiv.org/abs/2306.00029)
