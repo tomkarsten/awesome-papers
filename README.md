@@ -3,6 +3,7 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **JUNE-2023**
+* [:new::fire: FinGPT: Open-Source Financial Large Language Models (2023)](https://arxiv.org/abs/2306.06031)
 * [:new::fire: How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (2023)](https://arxiv.org/abs/2306.04751)
 * [:new::fire: A Simple and Effective Pruning Approach for Large Language Models (2023)](https://arxiv.org/abs/2306.11695)
 * [:new::fire: Reasoning with Language Model Prompting: A Survey (2023)](https://arxiv.org/abs/2212.09597)
