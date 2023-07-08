@@ -2,12 +2,15 @@
 
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
+**JULY-2023**
+* [:new::fire: A Survey on Evaluation of Large Language Models (2023)](https://arxiv.org/abs/2307.03109)
+  
 **JUNE-2023**
-* [:new::fire: FinGPT: Open-Source Financial Large Language Models (2023)](https://arxiv.org/abs/2306.06031)
-* [:new::fire: How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (2023)](https://arxiv.org/abs/2306.04751)
-* [:new::fire: A Simple and Effective Pruning Approach for Large Language Models (2023)](https://arxiv.org/abs/2306.11695)
-* [:new::fire: Reasoning with Language Model Prompting: A Survey (2023)](https://arxiv.org/abs/2212.09597)
-* [:new::fire: All arXiv Publications Pre-Processed for NLP, Including Structured Full-Text and Citation Network (2023)](https://arxiv.org/abs/2303.14957)
+* [FinGPT: Open-Source Financial Large Language Models (2023)](https://arxiv.org/abs/2306.06031)
+* [How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (2023)](https://arxiv.org/abs/2306.04751)
+* [A Simple and Effective Pruning Approach for Large Language Models (2023)](https://arxiv.org/abs/2306.11695)
+* [Reasoning with Language Model Prompting: A Survey (2023)](https://arxiv.org/abs/2212.09597)
+* [All arXiv Publications Pre-Processed for NLP, Including Structured Full-Text and Citation Network (2023)](https://arxiv.org/abs/2303.14957)
 
  
 **JUNE-2023**
