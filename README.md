@@ -3,7 +3,8 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **JULY-2023**
-* [:new::fire: A Survey on Evaluation of Large Language Models (2023)](https://arxiv.org/abs/2307.03109)
+* [:new::fire: How is ChatGPT's behavior changing over time? (2023)](https://arxiv.org/abs/2307.09009)
+* [A Survey on Evaluation of Large Language Models (2023)](https://arxiv.org/abs/2307.03109)
   
 **JUNE-2023**
 * [FinGPT: Open-Source Financial Large Language Models (2023)](https://arxiv.org/abs/2306.06031)
