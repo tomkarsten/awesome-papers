@@ -2,11 +2,16 @@
 
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
+**AUG-2023**
+* [:new::fire: Efficient Guided Generation for Large Language Models (2023)](https://arxiv.org/abs/2307.09702)
+* [:new::fire: From Pretraining Data to Language Models to Downstream Tasks Tracking the Trails of Political Biases Leading to Unfair NLP Models (2023)](https://arxiv.org/abs/2305.08283)
+* [:new::fire: Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment (2023)](https://arxiv.org/abs/2308.05374)
+  
 **JULY-2023**
-* [:new::fire: Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better (2021)](https://arxiv.org/abs/2106.08962)
-* [:new::fire: Foundational Aligning Large Language Models with Human: A Survey (2023)](https://arxiv.org/abs/2307.12966v1)
-* [:new::fire: Foundational Models Defining a New Era in Vision: A Survey and Outlook (2023)](https://arxiv.org/abs/2307.13721v1)
-* [:new::fire: Challenges and Applications of Large Language Models (2023)](https://arxiv.org/abs/2307.10169)
+* [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better (2021)](https://arxiv.org/abs/2106.08962)
+* [Foundational Aligning Large Language Models with Human: A Survey (2023)](https://arxiv.org/abs/2307.12966v1)
+* [Foundational Models Defining a New Era in Vision: A Survey and Outlook (2023)](https://arxiv.org/abs/2307.13721v1)
+* [Challenges and Applications of Large Language Models (2023)](https://arxiv.org/abs/2307.10169)
 * [How is ChatGPT's behavior changing over time? (2023)](https://arxiv.org/abs/2307.09009)
 * [A Survey on Evaluation of Large Language Models (2023)](https://arxiv.org/abs/2307.03109)
   
