@@ -3,9 +3,10 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **AUG-2023**
-* [:new::fire: Efficient Guided Generation for Large Language Models (2023)](https://arxiv.org/abs/2307.09702)
-* [:new::fire: From Pretraining Data to Language Models to Downstream Tasks Tracking the Trails of Political Biases Leading to Unfair NLP Models (2023)](https://arxiv.org/abs/2305.08283)
-* [:new::fire: Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment (2023)](https://arxiv.org/abs/2308.05374)
+* [:new::fire: A Survey on Multimodal Large Language Models (2023)](https://arxiv.org/abs/2306.13549)
+* [Efficient Guided Generation for Large Language Models (2023)](https://arxiv.org/abs/2307.09702)
+* [From Pretraining Data to Language Models to Downstream Tasks Tracking the Trails of Political Biases Leading to Unfair NLP Models (2023)](https://arxiv.org/abs/2305.08283)
+* [Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment (2023)](https://arxiv.org/abs/2308.05374)
   
 **JULY-2023**
 * [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better (2021)](https://arxiv.org/abs/2106.08962)
