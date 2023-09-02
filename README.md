@@ -2,8 +2,12 @@
 
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
+**SEP-2023**
+* [:new::fire: To SMOTE, or not to SMOTE? (2023)](https://arxiv.org/abs/2201.08528)
+* [:new::fire: Instruction Tuning for Large Language Models: A Survey (2023)](https://arxiv.org/abs/2308.10792)
+
 **AUG-2023**
-* [:new::fire: A Survey on Multimodal Large Language Models (2023)](https://arxiv.org/abs/2306.13549)
+* [A Survey on Multimodal Large Language Models (2023)](https://arxiv.org/abs/2306.13549)
 * [Efficient Guided Generation for Large Language Models (2023)](https://arxiv.org/abs/2307.09702)
 * [From Pretraining Data to Language Models to Downstream Tasks Tracking the Trails of Political Biases Leading to Unfair NLP Models (2023)](https://arxiv.org/abs/2305.08283)
 * [Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment (2023)](https://arxiv.org/abs/2308.05374)
