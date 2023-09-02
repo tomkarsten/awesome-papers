@@ -4,10 +4,12 @@ A curated list of papers that may be of interest to Data Scientists and Machine 
 
 **SEP-2023**
 * [:new::fire: Applications of Deep Neural Networks with Keras (2022)](https://arxiv.org/abs/2009.05673)
+* [:new::fire: The Modern Mathematics of Deep Learning (2023)](https://arxiv.org/abs/2105.04026)
 * [:new::fire: Multimodal Deep Learning (2023)](https://arxiv.org/abs/2301.04856)
 * [:new::fire: To SMOTE, or not to SMOTE? (2023)](https://arxiv.org/abs/2201.08528)
 * [:new::fire: Instruction Tuning for Large Language Models: A Survey (2023)](https://arxiv.org/abs/2308.10792)
-
+* [:new::fire: Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities (2023)](https://arxiv.org/abs/2308.12833)
+* 
 **AUG-2023**
 * [A Survey on Multimodal Large Language Models (2023)](https://arxiv.org/abs/2306.13549)
 * [Efficient Guided Generation for Large Language Models (2023)](https://arxiv.org/abs/2307.09702)
