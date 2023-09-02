@@ -3,6 +3,8 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **SEP-2023**
+* [:new::fire: Applications of Deep Neural Networks with Keras (2022)](https://arxiv.org/abs/2009.05673)
+* [:new::fire: Multimodal Deep Learning (2023)](https://arxiv.org/abs/2301.04856)
 * [:new::fire: To SMOTE, or not to SMOTE? (2023)](https://arxiv.org/abs/2201.08528)
 * [:new::fire: Instruction Tuning for Large Language Models: A Survey (2023)](https://arxiv.org/abs/2308.10792)
 
