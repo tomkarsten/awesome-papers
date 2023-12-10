@@ -2,9 +2,12 @@
 
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
+**DEC-2023**
+* [:new::fire: Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+  
 **NOV-2023**
-* [:new::fire: Have we built machines that think like people?](https://arxiv.org/abs/2311.16093)
-* [:new::fire: ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up?](https://arxiv.org/abs/2311.16989)
+* [Have we built machines that think like people?](https://arxiv.org/abs/2311.16093)
+* [ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up?](https://arxiv.org/abs/2311.16989)
 
 **OCT-2023**
 * [Large Language Model Alignment: A Survey](https://arxiv.org/abs/2309.15025)
