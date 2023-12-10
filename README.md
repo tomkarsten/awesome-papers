@@ -3,8 +3,9 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **DEC-2023**
-* [:new::fire: https://paperswithcode.com/paper/gemini-a-family-of-highly-capable-multimodal](Gemini: A Family of Highly Capable Multimodal Models)
+* [:new::fire: Gemini: A Family of Highly Capable Multimodal Models](https://paperswithcode.com/paper/gemini-a-family-of-highly-capable-multimodal)
 * [:new::fire: Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+* [:new::fire: Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700)
   
 **NOV-2023**
 * [Have we built machines that think like people?](https://arxiv.org/abs/2311.16093)
