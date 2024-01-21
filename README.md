@@ -2,19 +2,23 @@
 
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
+**JAN-2024**
+* [:new::fire: Leveraging Large Language Models for NLG Evaluation: A Survey (2024)](https://arxiv.org/abs/2401.07103)
+* [:new::fire: Foundations of Vector Retrieval (2024)](https://arxiv.org/abs/2401.09350)
+  
 **DEC-2023**
-* [:new::fire: An In-depth Look at Gemini's Language Abilities](https://arxiv.org/abs/2312.11444)
-* [Gemini: A Family of Highly Capable Multimodal Models](https://paperswithcode.com/paper/gemini-a-family-of-highly-capable-multimodal)
-* [ Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
-* [Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700)
-* [The Efficiency Spectrum of Large Language Models: An Algorithmic Survey](https://arxiv.org/abs/2312.00678)
+* [An In-depth Look at Gemini's Language Abilities (2023)](https://arxiv.org/abs/2312.11444)
+* [Gemini: A Family of Highly Capable Multimodal Models (2023)](https://paperswithcode.com/paper/gemini-a-family-of-highly-capable-multimodal)
+* [ Mamba: Linear-Time Sequence Modeling with Selective State Spaces (2023)](https://arxiv.org/abs/2312.00752)
+* [Data Management For Large Language Models: A Survey (2023)](https://arxiv.org/abs/2312.01700)
+* [The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (2023)](https://arxiv.org/abs/2312.00678)
 *   
 **NOV-2023**
-* [Have we built machines that think like people?](https://arxiv.org/abs/2311.16093)
-* [ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up?](https://arxiv.org/abs/2311.16989)
+* [Have we built machines that think like people? (2023)](https://arxiv.org/abs/2311.16093)
+* [ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up? (2023)](https://arxiv.org/abs/2311.16989)
 
 **OCT-2023**
-* [Large Language Model Alignment: A Survey](https://arxiv.org/abs/2309.15025)
+* [Large Language Model Alignment: A Survey (2023)](https://arxiv.org/abs/2309.15025)
 
 **SEP-2023**
 * [Applications of Deep Neural Networks with Keras (2022)](https://arxiv.org/abs/2009.05673)
