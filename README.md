@@ -3,6 +3,7 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **JAN-2024**
+* [:new::fire: Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM (2024)](https://arxiv.org/abs/2401.02994)
 * [:new::fire: Leveraging Large Language Models for NLG Evaluation: A Survey (2024)](https://arxiv.org/abs/2401.07103)
 * [:new::fire: Foundations of Vector Retrieval (2024)](https://arxiv.org/abs/2401.09350)
   
