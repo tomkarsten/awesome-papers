@@ -2,10 +2,13 @@
 
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
+**FEB-2024**
+* [:new::fire: Large Language Models: A Survey (2024)](https://arxiv.org/abs/2402.06196)
+* 
 **JAN-2024**
-* [:new::fire: Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM (2024)](https://arxiv.org/abs/2401.02994)
-* [:new::fire: Leveraging Large Language Models for NLG Evaluation: A Survey (2024)](https://arxiv.org/abs/2401.07103)
-* [:new::fire: Foundations of Vector Retrieval (2024)](https://arxiv.org/abs/2401.09350)
+* [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM (2024)](https://arxiv.org/abs/2401.02994)
+* [Leveraging Large Language Models for NLG Evaluation: A Survey (2024)](https://arxiv.org/abs/2401.07103)
+* [Foundations of Vector Retrieval (2024)](https://arxiv.org/abs/2401.09350)
   
 **DEC-2023**
 * [An In-depth Look at Gemini's Language Abilities (2023)](https://arxiv.org/abs/2312.11444)
