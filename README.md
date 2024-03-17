@@ -2,9 +2,12 @@
 
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
+**MAR-2024**
+* [:new::fire: Stable Diffusion 3 (2024)](https://stability.ai/news/stable-diffusion-3-research-paper)
+* 
 **FEB-2024**
-* [:new::fire: Large Language Models: A Survey (2024)](https://arxiv.org/abs/2402.06196)
-* [:new::fire: Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (2024)](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)
+* [Large Language Models: A Survey (2024)](https://arxiv.org/abs/2402.06196)
+* [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context (2024)](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)
   
 **JAN-2024**
 * [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM (2024)](https://arxiv.org/abs/2401.02994)
