@@ -2,8 +2,12 @@
 
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
+**JUN-2024**
+* [:new::fire: An Introduction to Vision-Language Modeling (2024)](https://arxiv.org/abs/2405.17247)
+* [:new::fire: Alice's Adventures in a Differentiable Wonderland -- Volume I, A Tour of the Land (2024)](https://arxiv.org/abs/2404.17625)
+  
 **MAR-2024**
-* [:new::fire: Stable Diffusion 3 (2024)](https://stability.ai/news/stable-diffusion-3-research-paper)
+* [Stable Diffusion 3 (2024)](https://stability.ai/news/stable-diffusion-3-research-paper)
 * 
 **FEB-2024**
 * [Large Language Models: A Survey (2024)](https://arxiv.org/abs/2402.06196)
