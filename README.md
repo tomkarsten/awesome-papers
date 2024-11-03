@@ -2,9 +2,13 @@
 
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
+**NOV-2024**
+* [A Survey on Data Synthesis and Augmentation for Large Language Models (2024)](https://arxiv.org/abs/2410.12896)
+* [The Prompt Report: A Systematic Survey of Prompting Techniques (2024)](https://trigaten.github.io/Prompt_Survey_Site/)
+  
 **JUN-2024**
-* [:new::fire: An Introduction to Vision-Language Modeling (2024)](https://arxiv.org/abs/2405.17247)
-* [:new::fire: Alice's Adventures in a Differentiable Wonderland -- Volume I, A Tour of the Land (2024)](https://arxiv.org/abs/2404.17625)
+* [An Introduction to Vision-Language Modeling (2024)](https://arxiv.org/abs/2405.17247)
+* [Alice's Adventures in a Differentiable Wonderland -- Volume I, A Tour of the Land (2024)](https://arxiv.org/abs/2404.17625)
   
 **MAR-2024**
 * [Stable Diffusion 3 (2024)](https://stability.ai/news/stable-diffusion-3-research-paper)
