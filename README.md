@@ -3,6 +3,7 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **NOV-2024**
+* [A Survey of Deep Learning and Foundation Models for Time Series Forecasting (2024)](https://arxiv.org/abs/2401.13912)
 * [A Survey on Data Synthesis and Augmentation for Large Language Models (2024)](https://arxiv.org/abs/2410.12896)
 * [The Prompt Report: A Systematic Survey of Prompting Techniques (2024)](https://trigaten.github.io/Prompt_Survey_Site/)
   
