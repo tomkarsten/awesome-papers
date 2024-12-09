@@ -2,7 +2,7 @@
 
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
-**NOV-2024**
+**DEC-2024**
 * [Reinforcement Learning: An Overview (2024)](https://arxiv.org/abs/2412.05265)
   
 **NOV-2024**
