@@ -3,6 +3,9 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **NOV-2024**
+* [Reinforcement Learning: An Overview (2024)](https://arxiv.org/abs/2412.05265)
+  
+**NOV-2024**
 * [Understanding LLMs: A Comprehensive Overview from Training to Inference (2024)](https://arxiv.org/abs/2401.02038)
 * [A Survey of Deep Learning and Foundation Models for Time Series Forecasting (2024)](https://arxiv.org/abs/2401.13912)
 * [A Survey on Data Synthesis and Augmentation for Large Language Models (2024)](https://arxiv.org/abs/2410.12896)
