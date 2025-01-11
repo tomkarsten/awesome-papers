@@ -1,6 +1,15 @@
+<img src="https://github.com/user-attachments/assets/c6ac438c-84b3-4347-9c4f-4af959dbace2" height="300px">
+
 # :books: Awesome Papers for Data/ML Scientists
 
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
+
+**JAN-2025**
+* [A Survey on Large Language Models with some Insights on their Capabilities and Limitations (2025)](https://arxiv.org/abs/2501.04040)
+* [Dive into Time-Series Anomaly Detection: A Decade Review (2024)](https://arxiv.org/abs/2412.20512)
+* [Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches (2025)](https://arxiv.org/abs/2501.03151v1)
+
+<h3>2024</h3>
 
 **DEC-2024**
 * [Reinforcement Learning: An Overview (2024)](https://arxiv.org/abs/2412.05265)
@@ -26,7 +35,9 @@ A curated list of papers that may be of interest to Data Scientists and Machine 
 * [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM (2024)](https://arxiv.org/abs/2401.02994)
 * [Leveraging Large Language Models for NLG Evaluation: A Survey (2024)](https://arxiv.org/abs/2401.07103)
 * [Foundations of Vector Retrieval (2024)](https://arxiv.org/abs/2401.09350)
-  
+
+<h3>2023</h3>
+
 **DEC-2023**
 * [An In-depth Look at Gemini's Language Abilities (2023)](https://arxiv.org/abs/2312.11444)
 * [Gemini: A Family of Highly Capable Multimodal Models (2023)](https://paperswithcode.com/paper/gemini-a-family-of-highly-capable-multimodal)
