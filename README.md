@@ -5,6 +5,7 @@
 A curated list of papers that may be of interest to Data Scientists and Machine Learning students and professionals:
 
 **JAN-2025**
+* [Transformer2: Self-adaptive LLMs (2025)](https://arxiv.org/abs/2501.06252)
 * [A Survey on Large Language Models with some Insights on their Capabilities and Limitations (2025)](https://arxiv.org/abs/2501.04040)
 * [Dive into Time-Series Anomaly Detection: A Decade Review (2024)](https://arxiv.org/abs/2412.20512)
 * [Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches (2025)](https://arxiv.org/abs/2501.03151v1)
